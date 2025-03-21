@@ -34,7 +34,7 @@ public:
             if(c == recipes.size()){
                 break;
             }
-            if(stopper == 1000)
+            if(stopper == 100)
                 break;
         }
         return ans;
