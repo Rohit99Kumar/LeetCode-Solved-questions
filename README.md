@@ -7,8 +7,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit99Kumar/LeetCode-Solved-questions/tree/master/0001-two-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit99Kumar/LeetCode-Solved-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohit99Kumar/LeetCode-Solved-questions/tree/master/0001-two-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit99Kumar/LeetCode-Solved-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## String
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit99Kumar/LeetCode-Solved-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit99Kumar/LeetCode-Solved-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rohit99Kumar/LeetCode-Solved-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
