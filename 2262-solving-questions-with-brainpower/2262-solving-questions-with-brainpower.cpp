@@ -12,7 +12,7 @@ public:
     }
 
     long long mostPoints(vector<vector<int>>& questions) {
-        vector<long long> dp(1000000, -1);
+        vector<long long> dp(questions.size(), -1);
         long long ans = max(questions[0][0] + f(questions, questions[0][1] + 1, dp), f(questions, 1, dp));
         return ans;
     }
